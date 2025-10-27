@@ -62,10 +62,10 @@ You can also experiment with **Bidirectional LSTM** to capture both forward and 
 
 ## 📊 Results
 
-| Model | Accuracy | Loss |
-|--------|-----------|------|
-| LSTM | ~77% | - |
-| Bi-LSTM | ~79% | - |
+| Model | Accuracy |
+|--------|-----------|
+| LSTM | ~77% |
+| Bi-LSTM | ~79% |
 
 🧑‍💻 Author
 
