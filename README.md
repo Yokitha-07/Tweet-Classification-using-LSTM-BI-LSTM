@@ -72,7 +72,6 @@ You can also experiment with **Bidirectional LSTM** to capture both forward and 
 Yokitha R
 📍 University of Peradeniya, Sri Lanka
 💼 Aspiring AI & ML Intern
-]
 
 ---
 
